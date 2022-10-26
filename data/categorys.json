@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Computer Science"
+    },
+    {
+        "id": "02",
+        "name": "AI & Machine learn"
+    },
+    {
+        "id": "03",
+        "name": "Programing Language"
+    },
+    {
+        "id": "04",
+        "name": "Desing"
+    },
+    {
+        "id": "05",
+        "name": "Cyber Security"
+    },
+    {
+        "id": "06",
+        "name": "All News"
+    }
+]
