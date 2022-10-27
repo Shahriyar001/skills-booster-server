@@ -151,7 +151,7 @@
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CeQPcq9-PgH7GFXIGyfispzQ6WIKAxxIdw&usqp=CAU",
-        "details": "Python is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled python code can run on all platforms that support python without the need to recompile.[18] python applications are typically compiled to bytecode that can run on any python virtual machine (JVM) regardless of the underlying computer architecture"
+        "details": "Python is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled python code can run on all platforms that support python without the need to recompile.[18] python applications are typically compiled to bytecode that can run on any python virtual machine (JVM) regardless of the underlying computer architecture"
     },
     {
         "_id": "a713ee936ff5574273f0f769f5c5b20e",
@@ -173,7 +173,7 @@
         },
         "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlZ0hcsd1vFTnOJr9wQjBC8RM8wcE91i9WA&usqp=CAU",
-        "details": "C++ is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled C++ code can run on all platforms that support C++ without the need to recompile.[18] C++ applications are typically compiled to bytecode that can run on any C++ virtual machine (JVM) regardless of the underlying computer architecture"
+        "details": "C++ is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled C++ code can run on all platforms that support C++ without the need to recompile.[18] C++ applications are typically compiled to bytecode that can run on any C++ virtual machine (JVM) regardless of the underlying computer architecture."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
